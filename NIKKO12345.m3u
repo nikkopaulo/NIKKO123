@@ -4,35 +4,35 @@
 
 **********LOCAL**********
 
-#EXTINF:-1 tvg-chno="778" channel-number="778" tvg-id="PBB 3.0 Dining Area Livestream" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" tvg-name="PBB 3.0 Dining Area Livestream" group-title="NIKKO STREAM",PBB 3.0 Dining Area Livestream
+#EXTINF:-1 tvg-chno="778" channel-number="778" tvg-id="PBB 3.0 Dining Area Livestream" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" tvg-name="PBB 3.0 Dining Area Livestream" group-title="LOCAL",PBB 3.0 Dining Area Livestream
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ac87b335cfd44a8589f96a4f8534c674:4b9066c7778e74b899c2f57d977149b1
 https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-diningarea/manifest.mpd
 
-#EXTINF:-1 tvg-chno="779" channel-number="779" tvg-id="PBB 3.0 External Den Livestream" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" tvg-name="PBB 3.0 External Den Livestream" group-title="NIKKO STREAM",PBB 3.0 External Den Livestream
+#EXTINF:-1 tvg-chno="779" channel-number="779" tvg-id="PBB 3.0 External Den Livestream" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" tvg-name="PBB 3.0 External Den Livestream" group-title="LOCAL",PBB 3.0 External Den Livestream
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=01f5f16338aa4302b5fc5e3e2c50cd3d:0dbd0f05009fa64614de990f56b3f322
 https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-externalden/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" group-title="NIKKO STREAM", PBB 3.0 ALL ACESS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" group-title="LOCAL", PBB 3.0 ALL ACESS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5208606a1a5e4750bc7aaafa3bbad84c:246d9c7efc6d96d8d596aa294313e17b
 https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/YjBC6791xQ.jpg" group-title="NIKKO STREAM", PBB 3.0 MAIN LIVE
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/YjBC6791xQ.jpg" group-title="LOCAL", PBB 3.0 MAIN LIVE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=02b0d6aa78d547af890c9e27113e81af:890160f8ece56b8cd232889acb74e276
 https://abslive.akamaized.net/dash/live/2027618/pinoybigbrothercollabedition30live/manifest.mpd
 
-#EXTINF:-1 tvg-chno="1" channel-number="1" tvg-id="PjStreamTV" tvg-logo="https://i.imgur.com/dpGrvi4.jpeg" tvg-name="DURIAN TV" group-title="PjStreamTV",DURIAN TV
+#EXTINF:-1 tvg-chno="1" channel-number="1" tvg-id="PjStreamTV" tvg-logo="https://i.imgur.com/dpGrvi4.jpeg" tvg-name="DURIAN TV" group-title="LOCAL",DURIAN TV
 https://duriantv.tonia3305.workers.dev/master.live.m3u8
 
 #EXTINF:-1 tvg-id="tv5" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A97A2-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="LOCAL",TV5
