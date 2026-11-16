@@ -3,6 +3,31 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://wasabi-egg.b-cdn.net/ASIA_CONVERGE.xml"
 
 **********LOCAL**********
+#EXTM3U
+
+#EXTINF:-1 tvg-name="PBB Collab Edition 3.0 Live" group-title="PBB COLLAB EDITION",PBB Collab Edition 3.0 Live
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1044e7ece2d741bcafe80d8613da104f:f5e17f169ff05ea40c5d3f065f523942
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://absp-live.akamaized.net/dash/live/2099522/pinoybigbrothercollabedition30live/manifest.mpd
+
+#EXTINF:-1 tvg-name="PBB All Access Live" group-title="PBB COLLAB EDITION",PBB All Access Live
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8150b74d16324bb4b2ff62e3e202fc7a:0c5ed4f9db9d4ee61bbc91b3a51ef8b5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/manifest.mpd
+
+#EXTINF:-1 tvg-name="PBB Dining Area" group-title="PBB COLLAB EDITION",PBB Dining Area
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea6588d030c94ca89925ac0c49974430:3e6de4afee1eff8e14f9506b76ac9ee6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://absp-live.akamaized.net/das...30allaccesslivestream-diningarea/manifest.mpd
+
+#EXTINF:-1 tvg-name="PBB External Den" group-title="PBB COLLAB EDITION",PBB External Den
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b750a40736a24e60b5a4f256208b92c5:af07292597f692726dcac2bd297ddf8e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://absp-live.akamaized.net/das...0allaccesslivestream-externalden/manifest.mpd
 
 #EXTINF:-1 tvg-chno="778" channel-number="778" tvg-id="PBB 3.0 Dining Area Livestream" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" tvg-name="PBB 3.0 Dining Area Livestream" group-title="LOCAL",PBB 3.0 Dining Area Livestream
 #KODIPROP:inputstreamaddon=inputstream.adaptive
